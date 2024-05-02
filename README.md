@@ -1,5 +1,5 @@
 # CS510_DataEngineering_Assignments
-This repo is to house my CS510 Data Engineering Projects
+This repo is to house my CS510 Data Engineering In-Class Assignments
 
 ## "02_gather"
 
@@ -8,4 +8,12 @@ This repo is to house my CS510 Data Engineering Projects
 
 ## "03_transport"
 
-* Pub/Sub
+* Pub/Sub'
+
+## "04_validation"
+
+* Data Validation Activity
+
+## "05_transformation"
+
+* Data Transformation Assignment
